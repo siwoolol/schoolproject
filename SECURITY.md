@@ -13,3 +13,5 @@
 ## Reporting a Vulnerability
 
 > Reporting bugs are highly thanked. Report issues in the issues section on Actions w/the project name (the folder name)! *The projects might be buggy or might be vulnerable to things.* they are betas and all-in-test unless i put **"COMPLETED"** in the **INFO.md** in the folder.
+
+[PREVIOUS - README](/README.md) [NEXT - NONE](/)
