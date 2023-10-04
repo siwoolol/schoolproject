@@ -3,4 +3,4 @@
 
 This is an repo of me making my school projects & updating them.
 
-[PREVIOUS - NONE](/) [NEXT - SECURITY GUIDLINES](/SECURITY.md)
+[PREVIOUS - NONE](/) | [NEXT - SECURITY GUIDLINES](/SECURITY.md)
