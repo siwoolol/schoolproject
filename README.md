@@ -2,7 +2,6 @@
 ## What is this?
 
 >This is an repo of me making my school projects & updating them.
-I take this kinda seriously.
 
 ## How to install
 
