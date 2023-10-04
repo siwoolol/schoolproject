@@ -1,10 +1,14 @@
 **Check [Docs](https://school.fuckyou.gq/) For More Info.**
-# SCHOOLPROJECT!
+## What is this?
 
-This is an repo of me making my school projects & updating them.
+>This is an repo of me making my school projects & updating them.
 I take this kinda seriously.
 
+## How to install
+
+>How to install/use is metioned in **INFO.md** of *every folder!*
+
 > [!IMPORTANT]
-> Find out vulnurabilities on The next article.
+> Find out vulnurabilities & how 2 report issues (bugs) on The next article.
 
 [PREVIOUS - NONE](/) | [NEXT - SECURITY GUIDLINES](/SECURITY.md)
