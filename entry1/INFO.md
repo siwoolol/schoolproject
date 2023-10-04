@@ -3,8 +3,8 @@
 
 # IDEAS & TODO
 
-> - [x] create mute music feature (~75% done)
-> - [o] create outside factory level
-> - [o] create more advancements
-> - [o] create more explanations
-> - [o] create keybind infos with / key
+> [x] create mute music feature (~75% done)
+> [ ] create outside factory level
+> [ ] create more advancements
+> [ ] create more explanations
+> [ ] create keybind infos with / key
