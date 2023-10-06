@@ -4,7 +4,7 @@
 
 #
 
-> Status = Almost completed, but in beta.
+> Status = Almost completed, open beta.
 > Read [SECURITY GUIDLINES](/SECURITY.md) for more info.
 
 # IDEAS & TODO
