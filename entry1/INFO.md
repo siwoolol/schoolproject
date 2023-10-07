@@ -9,8 +9,4 @@
 
 # IDEAS & TODO
 
-> - [x] create outside factory level
-> - [x] create mute music feature
-> - [x] create advancements screen
-> - [x] create more explanations
-> - [x] create keybind infos with / key
+> - [ ] FINISH PROJECT.
