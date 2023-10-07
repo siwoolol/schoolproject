@@ -14,4 +14,3 @@
 > - [x] create advancements screen
 > - [x] create more explanations
 > - [x] create keybind infos with / key
-> - [ ] add english
