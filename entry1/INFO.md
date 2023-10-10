@@ -4,9 +4,9 @@
 
 #
 
-> Status = Almost completed, open beta.
+> Status = Released. Final.
 > Read [SECURITY GUIDLINES](/SECURITY.md) for more info.
 
 # IDEAS & TODO
 
-> - [ ] FINISH PROJECT.
+> - [x] FINISH PROJECT.
